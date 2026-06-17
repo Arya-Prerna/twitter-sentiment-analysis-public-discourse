@@ -4,6 +4,7 @@ A key part of this project was identifying the linguistic markers of "contested"
 
 ### 1. Negative Sentiment & Political Polarization
 The analysis shows a high concentration of political keywords and controversial terms within negative-labeled data. Terms like "politics," "trump," and "liberal" appearing in the negative WordCloud reflect the "contested" nature of social media narratives.
+
 ![Negative WordCloud](negative_wordcloud.png)
 
 ### 2. Comparison of Narrative Hashtags
